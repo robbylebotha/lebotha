@@ -26,3 +26,16 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-clean-blog/blob/gh-pages/LICENSE) license.
+
+There was Brenda, LaTisha, Linda, Felicia
+Dawn, LeShaun, Ines, and Alicia
+Teresa, Monica, Sharron, Nicki 
+Lisa, Veronica, Karen, Vicky 
+Cookie, well I met her in a ice cream parlor 
+Tonya, Diane, Lori and Carla 
+Marina , Selena , Katrina, Sabrina 
+About three Kim's, LaToya, and Tina ,
+Shelley, Bridget, Cavi, Rasheeda ,
+Kelly, Nicole, Angel, Juanita,
+Stacy, Tracie, Rohna, and Ronda,
+Donna, Ulanda , Tawana, and Wanda. 
